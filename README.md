@@ -1,168 +1,397 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=100&section=header" alt="" width="100%"/>
+<div align="center">
 
-## 👋 Hi, I'm Stephen — aka Crowndus
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Stephen%20Kisangi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=aka%20Crowndus&descSize=22&descAlignY=60" alt="Banner" width="100%"/>
 
-I'm an **IT Professional, Front-end Developer, and AI Enthusiast**. I am passionate about building intuitive, high-performance web applications and leveraging the power of **AI, Machine Learning, and Data Analysis** to solve complex real-world problems.
+<h3>IT Professional &nbsp;·&nbsp; Front-end Developer &nbsp;·&nbsp; AI Enthusiast</h3>
 
-<img align="absmiddle" src="https://api.iconify.design/lucide:graduation-cap.svg?color=%232563eb" width="20" alt=""/> &nbsp;I hold a **First-Class Honours degree in Information Technology** from Kenya Highlands University, where I was awarded for Academic Excellence.
+<a href="https://crowndus.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=2563EB&center=true&vCenter=true&width=560&lines=Building+intuitive+web+applications;Exploring+AI%2C+Machine+Learning+%26+Data+Analysis;Making+education+accessible+through+technology;Solving+problems%2C+always." alt="Typing animation"/></a>
 
-## <img src="https://api.iconify.design/lucide:sparkles.svg?color=%232563eb" width="26" align="absmiddle" alt=""/> &nbsp;Live Projects &amp; Portfolio
+<br/>
 
-<table width="100%">
-  <tr>
-    <td width="6%" align="center" valign="middle"><img src="https://api.iconify.design/lucide:rocket.svg?color=%232563eb" width="22" alt=""/></td>
-    <td valign="middle"><a href="https://crowndus.vercel.app/"><b>View My Live Portfolio (Crowndus)</b></a></td>
-  </tr>
-  <tr>
-    <td width="6%" align="center" valign="middle"><img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%232563eb" width="22" alt=""/></td>
-    <td valign="middle"><a href="https://edurown.vercel.app/"><b>View My EdTech Platform (Edurown)</b></a></td>
-  </tr>
-</table>
+<a href="https://crowndus.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Crowndus-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://edurown.vercel.app/"><img src="https://img.shields.io/badge/EdTech-Edurown-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Edurown"/></a>
+<a href="https://www.linkedin.com/in/stephen-kisangi-ba3b12231/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:stephen.crowndus1@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-## <img src="https://api.iconify.design/lucide:globe.svg?color=%232563eb" width="26" align="absmiddle" alt=""/> &nbsp;What I'm Building &amp; Working On
+</div>
 
-<table width="100%">
-  <tr>
-    <td width="6%" align="center" valign="middle"><img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%232563eb" width="22" alt=""/></td>
-    <td valign="middle"><b><a href="https://edurown.vercel.app">Edurown</a>:</b> A full-stack EdTech platform connecting students with academic support. Rebuilt from the ground up using a modern <b>React 19 + TanStack</b> architecture to ensure a seamless, server-rendered (SSR), and highly responsive user experience.</td>
-  </tr>
-  <tr>
-    <td width="6%" align="center" valign="middle"><img src="https://api.iconify.design/lucide:bot.svg?color=%232563eb" width="22" alt=""/></td>
-    <td valign="middle"><b>AI &amp; Data Science Exploration:</b> Actively developing my skills in Machine Learning and Data Analysis, building solutions at the intersection of AI, data, and education.</td>
-  </tr>
-  <tr>
-    <td width="6%" align="center" valign="middle"><img src="https://api.iconify.design/lucide:briefcase.svg?color=%232563eb" width="22" alt=""/></td>
-    <td valign="middle"><b>Freelance IT &amp; Web Consulting:</b> Delivering technical writing, web content, and digital solutions for international clients.</td>
-  </tr>
-</table>
+<br/>
 
-## <img src="https://api.iconify.design/lucide:code.svg?color=%232563eb" width="26" align="absmiddle" alt=""/> &nbsp;Technical &amp; Professional Toolkit
+<div align="center">
 
-<table width="100%">
-  <tr>
-    <th width="24%" align="left">Category</th>
-    <th align="left">Skills</th>
-  </tr>
-  <tr>
-    <td valign="middle"><b>Front-end Frameworks</b></td>
-    <td valign="middle"><code>React 19</code> <code>TanStack (Start, Router, Query)</code> <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code></td>
-  </tr>
-  <tr>
-    <td valign="middle"><b>Styling &amp; UI</b></td>
-    <td valign="middle"><code>Tailwind CSS v4</code> <code>shadcn/ui (Radix Primitives)</code> <code>Responsive Design</code></td>
-  </tr>
-  <tr>
-    <td valign="middle"><b>Build &amp; Hosting</b></td>
-    <td valign="middle"><code>Vite</code> <code>Nitro</code> <code>Vercel</code> <code>Git &amp; GitHub</code></td>
-  </tr>
-  <tr>
-    <td valign="middle"><b>Backend &amp; Data</b></td>
-    <td valign="middle"><code>Python</code> <code>PHP</code> <code>SQL</code> <code>MySQL</code> <code>REST APIs</code> <code>Pandas</code> <code>Data Visualization</code></td>
-  </tr>
-  <tr>
-    <td valign="middle"><b>Other Skills</b></td>
-    <td valign="middle"><code>Cybersecurity Awareness</code> <code>Technical Writing</code> <code>Project Management</code> <code>IT Tutoring</code></td>
-  </tr>
-</table>
+<h2>👋 Hi, I'm Stephen</h2>
 
-## <img src="https://api.iconify.design/lucide:trending-up.svg?color=%232563eb" width="26" align="absmiddle" alt=""/> &nbsp;Featured Projects
+<sub>ABOUT ME</sub>
 
-<table width="100%">
-  <tr>
-    <td width="6%" align="center" valign="middle"><img src="https://api.iconify.design/lucide:layers.svg?color=%232563eb" width="22" alt=""/></td>
-    <td valign="middle"><b>Edurown Platform (React 19 / SSR):</b> Designed and developed a complete, conversion-optimized web platform. Utilized TanStack Router for file-based routing, TanStack Query for state management, and Tailwind CSS for custom design tokens and premium motion transitions.</td>
-  </tr>
-  <tr>
-    <td width="6%" align="center" valign="middle"><img src="https://api.iconify.design/lucide:crown.svg?color=%232563eb" width="22" alt=""/></td>
-    <td valign="middle"><b>Crowndus Portfolio:</b> A fully responsive personal portfolio web application built with modern front-end technologies and deployed via Vercel, demonstrating proficiency in component-based architecture and continuous deployment.</td>
-  </tr>
-  <tr>
-    <td width="6%" align="center" valign="middle"><img src="https://api.iconify.design/lucide:activity.svg?color=%232563eb" width="22" alt=""/></td>
-    <td valign="middle"><b>Lung Cancer Data Analysis:</b> Processed a dataset of 10,000+ patient records using Python (Pandas) to analyze treatment outcomes by ethnicity, cancer stage, and smoking history. Delivered interactive visualizations and a clean, fully documented Jupyter notebook.</td>
-  </tr>
-  <tr>
-    <td width="6%" align="center" valign="middle"><img src="https://api.iconify.design/lucide:flask-conical.svg?color=%232563eb" width="22" alt=""/></td>
-    <td valign="middle"><b>Diagnosis Reporting System (RVIL-Kericho):</b> Designed a web-based system for my Bachelor's degree that allows farmers to download diagnosis reports remotely, streamlining laboratory communication and reducing in-person travel.</td>
-  </tr>
-  <tr>
-    <td width="6%" align="center" valign="middle"><img src="https://api.iconify.design/lucide:footprints.svg?color=%232563eb" width="22" alt=""/></td>
-    <td valign="middle"><b>Viatu Shuleni Project:</b> Led the distribution of 7,986 pairs of shoes across rural schools, improving access to education for over 9,457 pupils in Kitui County.</td>
-  </tr>
-</table>
+</div>
 
-## <img src="https://api.iconify.design/lucide:lightbulb.svg?color=%232563eb" width="26" align="absmiddle" alt=""/> &nbsp;What Drives Me
-
-<table width="100%">
+<table align="center">
   <tr>
-    <td width="6%" align="center" valign="middle"><img src="https://api.iconify.design/lucide:zap.svg?color=%232563eb" width="22" alt=""/></td>
-    <td valign="middle"><b>Solving Problems, Always:</b> I'm passionate about leveraging technology, data, and AI to expand learning access, drive innovation, and solve real-world challenges.</td>
-  </tr>
-  <tr>
-    <td width="6%" align="center" valign="middle"><img src="https://api.iconify.design/lucide:dna.svg?color=%232563eb" width="22" alt=""/></td>
-    <td valign="middle"><b>AI &amp; Data for Good:</b> I believe AI and Machine Learning are key to unlocking solutions for complex challenges, from resource allocation to public health and disease surveillance.</td>
-  </tr>
-  <tr>
-    <td width="6%" align="center" valign="middle"><img src="https://api.iconify.design/lucide:book-open.svg?color=%232563eb" width="22" alt=""/></td>
-    <td valign="middle"><b>Education &amp; Access:</b> As an EdTech advocate and IT tutor, I am committed to making quality education and technology accessible to everyone.</td>
-  </tr>
-</table>
-
-## <img src="https://api.iconify.design/lucide:target.svg?color=%232563eb" width="26" align="absmiddle" alt=""/> &nbsp;Future Goals
-
-My long-term goal is to bridge the gap between **Front-end Engineering and Artificial Intelligence**. I am actively expanding my knowledge in Machine Learning and Data Science, and **I am aspiring to pursue a Master's degree in Engineering Artificial Intelligence** to further specialize in building intelligent, data-driven systems that create meaningful social impact.
-
-## <img src="https://api.iconify.design/lucide:award.svg?color=%232563eb" width="26" align="absmiddle" alt=""/> &nbsp;Certifications &amp; Recognition
-
-<table width="100%">
-  <tr>
-    <td width="6%" align="center" valign="middle"><img src="https://api.iconify.design/lucide:shield-check.svg?color=%232563eb" width="22" alt=""/></td>
-    <td width="46%" valign="middle"><b>Security 101 (Cybersecurity Awareness Training)</b></td>
-    <td width="30%" valign="middle">Carnegie Mellon University &amp; Proofpoint</td>
-    <td width="18%" valign="middle">November 2025</td>
-  </tr>
-  <tr>
-    <td width="6%" align="center" valign="middle"><img src="https://api.iconify.design/lucide:shield-check.svg?color=%232563eb" width="22" alt=""/></td>
-    <td width="46%" valign="middle"><b>Cybersecurity &amp; Emerging Technologies Awareness Training</b></td>
-    <td width="30%" valign="middle">ICT Authority Kenya</td>
-    <td width="18%" valign="middle">February 2025</td>
-  </tr>
-  <tr>
-    <td width="6%" align="center" valign="middle"><img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%232563eb" width="22" alt=""/></td>
-    <td width="46%" valign="middle"><b>Certification of Academic Excellence</b></td>
-    <td width="30%" valign="middle">Kenya Highlands University</td>
-    <td width="18%" valign="middle">August 2024</td>
-  </tr>
-</table>
-
-## <img src="https://api.iconify.design/lucide:mail.svg?color=%232563eb" width="26" align="absmiddle" alt=""/> &nbsp;Let's Connect
-
-I'm always open to connecting with like-minded engineers, researchers, and developers.
-
-<table width="100%">
-  <tr>
-    <td width="6%" align="center" valign="middle"><img src="https://api.iconify.design/lucide:globe.svg?color=%232563eb" width="22" alt=""/></td>
-    <td width="22%" valign="middle"><b>My Portfolio:</b></td>
-    <td valign="middle"><a href="https://crowndus.vercel.app/">crowndus.vercel.app</a></td>
-  </tr>
-  <tr>
-    <td width="6%" align="center" valign="middle"><img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%232563eb" width="22" alt=""/></td>
-    <td width="22%" valign="middle"><b>Edurown Platform:</b></td>
-    <td valign="middle"><a href="https://edurown.vercel.app/">edurown.vercel.app</a></td>
-  </tr>
-  <tr>
-    <td width="6%" align="center" valign="middle"><img src="https://api.iconify.design/lucide:mail.svg?color=%232563eb" width="22" alt=""/></td>
-    <td width="22%" valign="middle"><b>Email:</b></td>
-    <td valign="middle"><a href="mailto:stephen.crowndus1@gmail.com">stephen.crowndus1@gmail.com</a></td>
-  </tr>
-  <tr>
-    <td width="6%" align="center" valign="middle"><img src="https://api.iconify.design/logos:linkedin-icon.svg" width="22" alt=""/></td>
-    <td width="22%" valign="middle"><b>LinkedIn:</b></td>
-    <td valign="middle"><a href="https://www.linkedin.com/in/stephen-kisangi-ba3b12231/">Stephen Kisangi</a></td>
+    <td align="center" width="800">
+      <br/>
+      I'm passionate about building intuitive, high-performance web applications and using <b>AI, Machine Learning, and Data Analysis</b> to solve complex real-world problems.
+      <br/><br/>
+      <img src="https://api.iconify.design/fluent-emoji-flat:graduation-cap.svg" width="22" align="absmiddle" alt=""/>
+      &nbsp;<b>First-Class Honours</b> in Information Technology, Kenya Highlands University, awarded for Academic Excellence.
+      <br/><br/>
+    </td>
   </tr>
 </table>
 
 <br/>
 
-*"Solving problems, always. We're getting there."* <img src="https://api.iconify.design/lucide:rocket.svg?color=%232563eb" width="18" align="absmiddle" alt=""/>
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=80&section=footer" alt="" width="100%"/>
+<img src="https://api.iconify.design/fluent-emoji-flat:rocket.svg" width="44" alt=""/>
+
+<h2>Live Projects</h2>
+
+<sub>THINGS YOU CAN VISIT RIGHT NOW</sub>
+
+</div>
+
+<table align="center">
+  <tr>
+    <td width="400" align="center" valign="top">
+      <br/>
+      <img src="https://api.iconify.design/fluent-emoji-flat:graduation-cap.svg" width="40" alt=""/>
+      <h3><a href="https://edurown.vercel.app/">Edurown</a></h3>
+      A full-stack EdTech platform connecting students with academic support. Rebuilt on a modern <b>React 19 + TanStack</b> architecture for a fast, server-rendered (SSR), highly responsive experience.
+      <br/><br/>
+      <a href="https://edurown.vercel.app/"><b>View Platform →</b></a>
+      <br/><br/>
+    </td>
+    <td width="400" align="center" valign="top">
+      <br/>
+      <img src="https://api.iconify.design/fluent-emoji-flat:crown.svg" width="40" alt=""/>
+      <h3><a href="https://crowndus.vercel.app/">Crowndus Portfolio</a></h3>
+      A fully responsive personal portfolio built with modern front-end technologies and deployed on Vercel, showcasing component-based architecture and continuous deployment.
+      <br/><br/>
+      <a href="https://crowndus.vercel.app/"><b>View Portfolio →</b></a>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+<img src="https://api.iconify.design/fluent-emoji-flat:laptop.svg" width="44" alt=""/>
+
+<h2>Currently Working On</h2>
+
+<sub>WHAT'S ON MY DESK</sub>
+
+</div>
+
+<table align="center">
+  <tr>
+    <td width="266" align="center" valign="top">
+      <br/>
+      <img src="https://api.iconify.design/fluent-emoji-flat:graduation-cap.svg" width="36" alt=""/>
+      <h4>Edurown</h4>
+      Continuing to grow the platform and its academic support offering.
+      <br/><br/>
+    </td>
+    <td width="266" align="center" valign="top">
+      <br/>
+      <img src="https://api.iconify.design/fluent-emoji-flat:robot.svg" width="36" alt=""/>
+      <h4>AI &amp; Data Science</h4>
+      Building skills in Machine Learning and Data Analysis at the intersection of AI, data, and education.
+      <br/><br/>
+    </td>
+    <td width="266" align="center" valign="top">
+      <br/>
+      <img src="https://api.iconify.design/fluent-emoji-flat:briefcase.svg" width="36" alt=""/>
+      <h4>Freelance IT &amp; Web</h4>
+      Technical writing, web content, and digital solutions for international clients.
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+<img src="https://api.iconify.design/fluent-emoji-flat:hammer-and-wrench.svg" width="44" alt=""/>
+
+<h2>Tech Stack</h2>
+
+<sub>TOOLS I BUILD WITH</sub>
+
+<br/><br/>
+
+<b>Front-end</b>
+<br/>
+<img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+
+<br/>
+
+<b>Styling &amp; UI</b>
+<br/>
+<img src="https://img.shields.io/badge/Tailwind_v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui"/>
+<img src="https://img.shields.io/badge/Radix_Primitives-161618?style=for-the-badge&logo=radixui&logoColor=white" alt="Radix UI"/>
+
+<br/>
+
+<b>Build &amp; Hosting</b>
+<br/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+<img src="https://img.shields.io/badge/Nitro-00DC82?style=for-the-badge&logo=nuxt&logoColor=white" alt="Nitro"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+
+<br/>
+
+<b>Backend &amp; Data</b>
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/REST_APIs-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
+
+<br/>
+
+<b>Also</b>
+<br/>
+<code>Cybersecurity Awareness</code> &nbsp;·&nbsp; <code>Technical Writing</code> &nbsp;·&nbsp; <code>Project Management</code> &nbsp;·&nbsp; <code>IT Tutoring</code> &nbsp;·&nbsp; <code>Data Visualization</code>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://api.iconify.design/fluent-emoji-flat:chart-increasing.svg" width="44" alt=""/>
+
+<h2>Featured Projects</h2>
+
+<sub>SELECTED WORK</sub>
+
+</div>
+
+<table align="center">
+  <tr>
+    <td width="400" align="center" valign="top">
+      <br/>
+      <img src="https://api.iconify.design/fluent-emoji-flat:graduation-cap.svg" width="36" alt=""/>
+      <h4>Edurown Platform</h4>
+      <sub><b>React 19 · SSR · TanStack</b></sub>
+      <br/><br/>
+      A complete, conversion-optimized web platform. TanStack Router for file-based routing, TanStack Query for state management, and Tailwind CSS for custom design tokens and premium motion transitions.
+      <br/><br/>
+    </td>
+    <td width="400" align="center" valign="top">
+      <br/>
+      <img src="https://api.iconify.design/fluent-emoji-flat:lungs.svg" width="36" alt=""/>
+      <h4>Lung Cancer Data Analysis</h4>
+      <sub><b>Python · Pandas · Jupyter</b></sub>
+      <br/><br/>
+      Processed 10,000+ patient records to analyze treatment outcomes by ethnicity, cancer stage, and smoking history. Delivered interactive visualizations and a clean, fully documented notebook.
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td width="400" align="center" valign="top">
+      <br/>
+      <img src="https://api.iconify.design/fluent-emoji-flat:test-tube.svg" width="36" alt=""/>
+      <h4>Diagnosis Reporting System</h4>
+      <sub><b>RVIL-Kericho · Bachelor's Project</b></sub>
+      <br/><br/>
+      A web-based system that lets farmers download diagnosis reports remotely, streamlining laboratory communication and reducing in-person travel.
+      <br/><br/>
+    </td>
+    <td width="400" align="center" valign="top">
+      <br/>
+      <img src="https://api.iconify.design/fluent-emoji-flat:running-shoe.svg" width="36" alt=""/>
+      <h4>Viatu Shuleni Project</h4>
+      <sub><b>Community Education Initiative</b></sub>
+      <br/><br/>
+      Led the distribution of <b>7,986 pairs of shoes</b> across rural schools, improving access to education for over <b>9,457 pupils</b> in Kitui County.
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+<img src="https://api.iconify.design/fluent-emoji-flat:light-bulb.svg" width="44" alt=""/>
+
+<h2>What Drives Me</h2>
+
+<sub>SOLVING PROBLEMS, ALWAYS</sub>
+
+</div>
+
+<table align="center">
+  <tr>
+    <td width="266" align="center" valign="top">
+      <br/>
+      <img src="https://api.iconify.design/fluent-emoji-flat:high-voltage.svg" width="36" alt=""/>
+      <h4>Technology for Impact</h4>
+      Using tech, data, and AI to expand learning access and tackle real-world challenges.
+      <br/><br/>
+    </td>
+    <td width="266" align="center" valign="top">
+      <br/>
+      <img src="https://api.iconify.design/fluent-emoji-flat:dna.svg" width="36" alt=""/>
+      <h4>AI &amp; Data for Good</h4>
+      Unlocking solutions to complex challenges, from resource allocation to public health and disease surveillance.
+      <br/><br/>
+    </td>
+    <td width="266" align="center" valign="top">
+      <br/>
+      <img src="https://api.iconify.design/fluent-emoji-flat:books.svg" width="36" alt=""/>
+      <h4>Education &amp; Access</h4>
+      As an EdTech advocate and IT tutor, committed to making quality education and technology available to everyone.
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+<img src="https://api.iconify.design/fluent-emoji-flat:direct-hit.svg" width="44" alt=""/>
+
+<h2>Future Goals</h2>
+
+<sub>WHERE I'M HEADED</sub>
+
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="800">
+      <br/>
+      Bridging the gap between <b>Front-end Engineering and Artificial Intelligence</b>, building intelligent, data-driven systems that create meaningful social impact. I am aspiring to pursue a <b>Master's degree in Engineering Artificial Intelligence</b> to specialize further.
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+<img src="https://api.iconify.design/fluent-emoji-flat:trophy.svg" width="44" alt=""/>
+
+<h2>Certifications &amp; Recognition</h2>
+
+<sub>CREDENTIALS</sub>
+
+</div>
+
+<table align="center">
+  <tr>
+    <th width="60"></th>
+    <th width="400" align="left">Certification</th>
+    <th width="240" align="left">Issuer</th>
+    <th width="100" align="left">Date</th>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><img src="https://api.iconify.design/fluent-emoji-flat:locked-with-key.svg" width="28" alt=""/></td>
+    <td valign="middle"><b>Security 101</b><br/><sub>Cybersecurity Awareness Training</sub></td>
+    <td valign="middle">Carnegie Mellon University &amp; Proofpoint</td>
+    <td valign="middle">Nov 2025</td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><img src="https://api.iconify.design/fluent-emoji-flat:locked-with-key.svg" width="28" alt=""/></td>
+    <td valign="middle"><b>Cybersecurity &amp; Emerging Technologies</b><br/><sub>Awareness Training</sub></td>
+    <td valign="middle">ICT Authority Kenya</td>
+    <td valign="middle">Feb 2025</td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><img src="https://api.iconify.design/fluent-emoji-flat:graduation-cap.svg" width="28" alt=""/></td>
+    <td valign="middle"><b>Certification of Academic Excellence</b></td>
+    <td valign="middle">Kenya Highlands University</td>
+    <td valign="middle">Aug 2024</td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+<img src="https://api.iconify.design/fluent-emoji-flat:bar-chart.svg" width="44" alt=""/>
+
+<h2>GitHub Stats</h2>
+
+<sub>ACTIVITY AT A GLANCE</sub>
+
+<br/><br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Crowndus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crowndus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="Top Languages"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://api.iconify.design/fluent-emoji-flat:envelope-with-arrow.svg" width="44" alt=""/>
+
+<h2>Let's Connect</h2>
+
+<sub>I'M ALWAYS OPEN TO CONNECTING WITH LIKE-MINDED ENGINEERS, RESEARCHERS, AND DEVELOPERS</sub>
+
+<br/><br/>
+
+</div>
+
+<table align="center">
+  <tr>
+    <td width="200" align="center" valign="top">
+      <br/>
+      <img src="https://api.iconify.design/fluent-emoji-flat:globe-showing-africa.svg" width="32" alt=""/>
+      <br/><b>Portfolio</b><br/>
+      <a href="https://crowndus.vercel.app/">crowndus.vercel.app</a>
+      <br/><br/>
+    </td>
+    <td width="200" align="center" valign="top">
+      <br/>
+      <img src="https://api.iconify.design/fluent-emoji-flat:graduation-cap.svg" width="32" alt=""/>
+      <br/><b>Edurown</b><br/>
+      <a href="https://edurown.vercel.app/">edurown.vercel.app</a>
+      <br/><br/>
+    </td>
+    <td width="200" align="center" valign="top">
+      <br/>
+      <img src="https://api.iconify.design/fluent-emoji-flat:e-mail.svg" width="32" alt=""/>
+      <br/><b>Email</b><br/>
+      <a href="mailto:stephen.crowndus1@gmail.com">stephen.crowndus1@gmail.com</a>
+      <br/><br/>
+    </td>
+    <td width="200" align="center" valign="top">
+      <br/>
+      <img src="https://api.iconify.design/logos:linkedin-icon.svg" width="32" alt=""/>
+      <br/><b>LinkedIn</b><br/>
+      <a href="https://www.linkedin.com/in/stephen-kisangi-ba3b12231/">Stephen Kisangi</a>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+<i>"Solving problems, always. We're getting there."</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=110&section=footer" alt="Footer" width="100%"/>
+
+</div>
